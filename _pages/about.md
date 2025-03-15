@@ -27,8 +27,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Feixiang He, an Assistant Professor at the [School of Electronic Information](https://ei.csu.edu.cn/), [Central South University](https://www.csu.edu.cn/). I obtained my Ph.D. from the [University of Leeds](https://www.leeds.ac.uk/) in Oct 2023 and subsequently conducted postdoctoral research at the Virtual Environment and Computer Graphics (VECG) group at [University College London](https://www.ucl.ac.uk/) from Mar to Oct 2024, under the supervision of Associate Professor [He Wang](https://drhewang.com/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
