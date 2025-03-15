@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<span style="font-size:18px;">Join Central South University.</span>
+Join Central South University.
