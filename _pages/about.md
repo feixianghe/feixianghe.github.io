@@ -29,5 +29,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Feixiang He, an Assistant Professor at the [School of Electronic Information](https://ei.csu.edu.cn/), [Central South University](https://www.csu.edu.cn/). I obtained my Ph.D. from the [University of Leeds](https://www.leeds.ac.uk/) in Oct 2023 and subsequently conducted postdoctoral research at the Virtual Environment and Computer Graphics (VECG) group at [University College London](https://www.ucl.ac.uk/) from Mar to Oct 2024, under the supervision of Associate Professor [He Wang](https://drhewang.com/).
+I am Feixiang He(贺飞翔), an Assistant Professor at the [School of Electronic Information](https://ei.csu.edu.cn/), [Central South University](https://www.csu.edu.cn/). I obtained my Ph.D. from the [University of Leeds](https://www.leeds.ac.uk/) in Oct 2023 and subsequently conducted postdoctoral research at the Virtual Environment and Computer Graphics (VECG) group at [University College London](https://www.ucl.ac.uk/) from Mar to Oct 2024, under the supervision of Associate Professor [He Wang](https://drhewang.com/).
 
