@@ -369,12 +369,10 @@ ninja.data = [{
             },},{id: "news-join-central-south-university",
           title: 'Join Central South University.',
           description: "",
-          section: "News",},{id: "news-announcement-2",
-          title: 'Announcement_2',
+          section: "News",},{id: "news-two-papers-accepted-in-cvpr-2025",
+          title: 'Two papers accepted in CVPR 2025',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
