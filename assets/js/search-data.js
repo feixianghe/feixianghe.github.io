@@ -370,7 +370,7 @@ ninja.data = [{
           title: 'Join Central South University.',
           description: "",
           section: "News",},{id: "news-two-papers-accepted-in-cvpr-2025",
-          title: 'Two papers accepted in CVPR 2025',
+          title: 'Two papers accepted in CVPR 2025.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
