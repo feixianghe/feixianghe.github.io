@@ -84,10 +84,10 @@
         {% endif %}
         {%- if author_is_self -%}
           <b>
-          <em>
+          <u>
             {{- author.first }}
             {{ author_last_html -}}
-          </em>
+          </u>
           </b>
         {%- else -%}
           {%- if coauthor_url -%}
