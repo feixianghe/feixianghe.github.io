@@ -180,16 +180,10 @@
     {% assign entrytype_text = entrytype | strip_html | strip %}
     {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% endcapture %}
     <div class="periodical" style="text-align: justify;">
-      {{ periodical | strip }}
+      {{ periodical | strip }}, <b>{{ entry.rank | strip }}</b>
     </div>
     <div class="periodical" style="text-align: justify;">
       {{ entry.note | strip }}
-    </div>
-
-    <div class="periodical" style="text-align: justify;">
-      <b>
-      {{ entry.rank | strip }}
-      </b>
     </div>
 
     <!-- Links/Buttons -->
